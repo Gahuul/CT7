@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="from_unit_prompt">Select from unit</string>
+    <string name="to_unit_prompt">Select to unit</string>
+    <string name="category_prompt">Select Category</string>
+</resources>

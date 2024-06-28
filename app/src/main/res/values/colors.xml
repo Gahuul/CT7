@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- res/values-day/colors.xml -->
+    <color name="background_color">#F2F2F2</color>
+    <color name="header_color">#2196F3</color>
+    <color name="text_color">#333333</color>
+    <color name="button_color">#4CAF50</color>
+    <color name="hint_color">#808080</color>
+
+    <!-- res/values-night/colors.xml -->
+    <color name="background_color_night">#212121</color>
+    <color name="text_color_night">#FFFFFF</color>
+    <color name="hint_color_night">#AAAAAA</color>
+    <color name="button_color_night">#666666</color>
+
+</resources>
